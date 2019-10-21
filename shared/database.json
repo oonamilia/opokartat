@@ -1,0 +1,935 @@
+{
+  "allMapContents":
+  {
+    "mapPages": [
+      {
+        "pageName": "Elämäntilanne",
+        "pageContent": [
+          {
+            "name": "Yksinäisyys",
+            "supportSources": [
+              {
+                "sourceName": "Harrastusmahdollisuudet"
+              },
+              {
+                "sourceName": "JAMKOn järjestämät aktiviteetit",
+                "link": "www.jamko.fi"
+              },
+              {
+                "sourceName": "Vertaistutorit / mentorit"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "www.nyyti.fi",
+                "description": "Tähän esittelyteksti jos haluaa",
+                "link": "http://www.nyyti.fi",
+                "phone": "0405302850250258"
+              },
+              {
+                "sourceName": "Korkeakoululiikunta",
+                "link": "http://www.kkl.fi"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "Kulttuuripaja Trombi"
+              },
+              {
+                "sourceName": "Kansalaistoiminnan keskus Matara",
+                "link": "http://www.matara.fi"
+              },
+              {
+                "sourceName": "Steppi-ryhmät"
+              },
+              {
+                "sourceName": "Veturitallit",
+                "link": "http://veturitallit.jyvaskyla.fi"
+              }
+            ]
+          },
+          {
+            "name": "Syrjäytyminen",
+            "supportSources": [
+              {
+                "sourceName": "Vertaistutorit / mentorit"
+              },
+              {
+                "sourceName": "JAMKO aktiviteetit",
+                "link": "www.jamko.fi"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuorisopalvelut/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "Sovatek",
+                "link": "www.sovatek.fi"
+              },
+              {
+                "sourceName": "Tukinet",
+                "link": "http://www.tukinet.net"
+              },
+              {
+                "sourceName": "Suvimäen Klubitalo / Kulttuuripaja Trombi"
+              },
+              {
+                "sourceName": "Kotinuorisotyö Homies",
+                "link": "https://www.innokyla.fi/web/malli6721691"
+              },
+              {
+                "sourceName": "Ink-tiimi"
+              },
+              {
+                "sourceName": "Steppi-ryhmät"
+              }
+            ]
+          },
+          {
+            "name": "Rikoksen uhri",
+            "supportSources": [
+              {
+                "sourceName": "Poliisi"
+              },
+              {
+                "sourceName": "Rikosuhripäivystys",
+                "link": "http://www.riku.fi/fi/etusivu/"
+              },
+              {
+                "sourceName": "Tukinainen",
+                "link": "https://www.tukinainen.fi/"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile (24h)",
+                "link": "https://kriisikeskusmobile.fi/",
+                "phone": "014 266 7150"
+              },
+              {
+                "sourceName": "Valtakunnallinen kriisipuhelin",
+                "link": "https://www.mielenterveysseura.fi/fi/tukea-ja-apua",
+                "phone": "010 195202"
+              },
+              {
+                "sourceName": "Ensi- ja turvakoti"
+              }
+            ]
+          },
+          {
+            "name": "Ero tyttö- / poikaystävästä",
+            "supportSources": [
+              {
+                "sourceName": "Tukiverkoston kartoitus (sukulaiset, ystävät)"
+              },
+              {
+                "sourceName": "Vertaistutorit / mentorit"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "www.nyyti.fi",
+                "link": "http://www.nyyti.fi"
+              },
+              {
+                "sourceName": "Mobile"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "Tukinet.fi",
+                "link": "http://www.tukinet.fi"
+              }
+            ]
+          },
+          {
+            "name": "Lapsi tulossa",
+            "supportSources": [
+              {
+                "sourceName": "HOPSin päivitys opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Äitiysneuvola"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "SOVATEK (Päihdeongelmaiset äidit)"
+              }
+            ]
+          },
+          {
+            "name": "Koti-ikävä",
+            "supportSources": [
+              {
+                "sourceName": "Tukiverkoston kartoitus (sukulaiset, ystävät)"
+              },
+              {
+                "sourceName": "Vertaistutorit / mentorit"
+              },
+              {
+                "sourceName": "Yhteydenpidon tukeminen (Skype ym)"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "www.nyyti.fi",
+                "link": "http://www.nyyti.fi"
+              }
+            ]
+          },
+          {
+            "name": "Raha-asiat solmussa",
+            "supportSources": [
+              {
+                "sourceName": "KELA"
+              },
+              {
+                "sourceName": "JAMKin opintosihteerit"
+              },
+              {
+                "sourceName": "Oman alueen sosiaaliasema"
+              },
+              {
+                "sourceName": "Ohjaamo"
+              },
+              {
+                "sourceName": "Jyväskylän kaupungin talous- ja velkaneuvonta"
+              },
+              {
+                "sourceName": "Jyväskylän seurakunnan diakoniatyö"
+              },
+              {
+                "sourceName": "Life-balance Tasapainoa elämään opintojakso"
+              }
+            ]
+          },
+          {
+            "name": "Läheisen kuolema",
+            "supportSources": [
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile (24h)",
+                "link": "https://kriisikeskusmobile.fi/",
+                "phone": "014 266 7150"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "HOPSin päivitys opettajatutorin kanssa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pageName": "Monikulttuurinen ohjaus",
+        "pageContent": [
+          {
+            "name": "Terveydelliset asiat",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Maistraatti / kotikuntaoikeus (vaikuttaa terveydenhuollon kustannuksiin)"
+              }
+            ]
+          },
+          {
+            "name": "Kotoutuminen",
+            "supportSources": [
+              {
+                "sourceName": "Vertaistutorit"
+              },
+              {
+                "sourceName": "JAMKO"
+              },
+              {
+                "sourceName": "Info Gloria - neuvontapalvelu"
+              },
+              {
+                "sourceName": "Nuorten palvelut Gloriassa",
+                "link": "http://www.gloriajkl.fi/"
+              },
+              {
+                "sourceName": "JAMKin KV-palvelut / kv-koordinaattori"
+              },
+              {
+                "sourceName": "Language Cafe"
+              },
+              {
+                "sourceName": "https://www.jyvaskyla.fi/sosiaalipalvelut/maahanmuuttajien-palvelut",
+                "link": "https://www.jyvaskyla.fi/sosiaalipalvelut/maahanmuuttajien-palvelut"
+              },
+              {
+                "sourceName": "Paremmin yhdessä ry",
+                "link": "http://www.paremminyhdessa.org/"
+              }
+            ]
+          },
+          {
+            "name": "Kieliongelmat",
+            "supportSources": [
+              {
+                "sourceName": "JAMKin Kielikeskuksen tarjonta / yksilöllinen tuki / kielitutor"
+              },
+              {
+                "sourceName": "Monikulttuurikeskus Gloria"
+              },
+              {
+                "sourceName": "Aikuisopisto, aikuislukio, kansalaisopisto..."
+              }
+            ]
+          },
+          {
+            "name": "Taloudelliset vaikeudet",
+            "supportSources": [
+              {
+                "sourceName": "Jyväskylän sosiaalipalvelut",
+                "phone": "014-266 3423"
+              },
+              {
+                "sourceName": "JAMKin opintosihteerit"
+              },
+              {
+                "sourceName": "Jyväskylän kaupungin talous- ja velkaneuvonta"
+              },
+              {
+                "sourceName": "Ev lut seurakunnan kv-työ"
+              }
+            ]
+          },
+          {
+            "name": "Akuutti avun tarve",
+            "supportSources": [
+              {
+                "sourceName": "Oman alueen terveysaseman päivystys klo 8-16"
+              },
+              {
+                "sourceName": "Keskussairaalan päivystys virka-ajan ulkopuolella",
+                "phone": "0100 84884"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile Asemakatu 2",
+                "phone": "014 266 7150 (24h)"
+              },
+              {
+                "sourceName": "Terveydenhoitajien päivystys ma-pe klo 8-10:30, puhelinaika klo 12-13, Opiskeluterveydenhuollon päivystävä puhelin ma-to klo 8-16 ja pe klo 8-13",
+                "phone": "014 266 2260"
+              },
+              {
+                "sourceName": "Opintopsykologin konsultaatio (psyyk. kriisitilanne)"
+              },
+              {
+                "sourceName": "Akuuttityöryhmästä puhelinkonsultaatio tilanteeseen",
+                "phone": "014 269 1811"
+              },
+              {
+                "sourceName": "Ulkomaalaisten kriisikeskus",
+                "phone": "09 4135 0501"
+              },
+              {
+                "sourceName": "Monika-naiset",
+                "link": "https://monikanaiset.fi/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pageName": "Addiktiot",
+        "subtitle": "Netti- ja peliriippuvuus, huumeet ja alkoholi",
+        "pageContent": [
+          {
+            "name": "Alkoholin / huumeiden käyttö hallitsee elämää",
+            "supportSources": [
+              {
+                "sourceName": "Päihdearviointivastaaanotto Kyllössä ma-pe klo 9-11"
+              },
+              {
+                "sourceName": "Päihdehoitajat terveysasemilla"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "www.paihdelinkki.fi",
+                "link": "www.paihdelinkki.fi"
+              },
+              {
+                "sourceName": "Sekasin-chat"
+              },
+              {
+                "sourceName": "Steppi-ryhmät"
+              },
+              {
+                "sourceName": "Nimettömät narkomaanit"
+              },
+              {
+                "sourceName": "Nimettömät alkoholistit"
+              }
+            ]
+          },
+          {
+            "name": "Sosiaaliset suhteet kärsivät",
+            "supportSources": [
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "JAMKO"
+              }
+            ]
+          },
+          {
+            "name": "Läheisellä on päihdeongelma",
+            "supportSources": [
+              {
+                "sourceName": "Al-Anon"
+              },
+              {
+                "sourceName": "Alkoholistien aikuiset lapset"
+              },
+              {
+                "sourceName": "Lasinen lapsuus"
+              }
+            ]
+          },
+          {
+            "name": "Terveysongelmat (mm. uni- ja keskittymisvaikeudet)",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "Oman asuinalueen terveysasema"
+              }
+            ]
+          },
+          {
+            "name": "Kaikki aika menee netissä / pelaamisessa",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Päihdehoitajat terveysasemilla"
+              },
+              {
+                "sourceName": "www.pelipoikki.fi",
+                "link": "www.pelipoikki.fi"
+              },
+              {
+                "sourceName": "www.nimettomatpelurit.fi",
+                "link": "www.nimettomatpelurit.fi"
+              },
+              {
+                "sourceName": "Peluuri.fi",
+                "link": "peluuri.fi"
+              },
+              {
+                "sourceName": "Pelirajat ’on"
+              },
+              {
+                "sourceName": "SOVATEK-säätiö",
+                "link": "www.sovatek.fi",
+                "phone": "014-266 0213"
+              }
+            ]
+          },
+          {
+            "name": "Elämänhallinnan haasteet",
+            "supportSources": [
+              {
+                "sourceName": "Oppilaitospappi"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "www.nyyti.fi",
+                "link": "www.nyyti.fi"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuorisopalvelut/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "Oman asuinalueen terveysasema"
+              },
+              {
+                "sourceName": "Mobile"
+              }
+            ]
+          },
+          {
+            "name": "Harrastukset vähenevät",
+            "supportSources": [
+              {
+                "sourceName": "JAMKOn järjestämät aktiviteetit"
+              },
+              {
+                "sourceName": "Vertaistutorit"
+              },
+              {
+                "sourceName": "Kulttuuripaja Trombi"
+              },
+              {
+                "sourceName": "Veturitallit",
+                "link": "http://veturitallit.jyvaskyla.fi"
+              }
+            ]
+          },
+          {
+            "name": "Taloudelliset vaikeudet",
+            "supportSources": [
+              {
+                "sourceName": "KELA"
+              },
+              {
+                "sourceName": "Jyväskylän kaupungin talous- ja velkaneuvonta"
+              },
+              {
+                "sourceName": "JAMKin Opintosihteerit"
+              },
+              {
+                "sourceName": "Jyväskylän kaupungin sosiaalityö"
+              },
+              {
+                "sourceName": "Jyväskylän seurakunnan diakoniatyö"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pageName": "Mielenterveysongelmat",
+        "pageContent": [
+          {
+            "name": "Masentunut tai ahdistunut opiskelija",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto / oma terveysasema / työterveys"
+              },
+              {
+                "sourceName": "HOPSin teko (kevennys) opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Pienryhmätapaamiset – opinnot rullamaan ryhmät tai vastaavat"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "Depressiohoitaja / terveyskeskuspsykologi"
+              },
+              {
+                "sourceName": "Opinto-ohjaajan tapaamiset ja seuranta"
+              },
+              {
+                "sourceName": "Tukinet.fi",
+                "link": "tukinet.fi"
+              }
+            ]
+          },
+          {
+            "name": "Itsetuhoinen & arvaamaton opiskelija",
+            "supportSources": [
+              {
+                "sourceName": "Oman terveysaseman päivystys klo 8-16"
+              },
+              {
+                "sourceName": "Keskussairaalan päivystys muina aikoina"
+              },
+              {
+                "sourceName": "Psykiatrisesta akuuttityöryhmästä puhelinkonsultaatio tilanteeseen",
+                "phone": "014 269 1811"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile",
+                "phone": "014 266 7150 (24 h)"
+              },
+              {
+                "sourceName": "Terveydenhoitajien päivystys ma-pe klo 8-10.30, puhelinaika ma-pe klo 12-13 Päivystävä puhelin ma-to klo 8 – 16 ja pe 8 – 13",
+                "phone": "014 266 2260"
+              },
+              {
+                "sourceName": "Poliisi"
+              }
+            ]
+          },
+          {
+            "name": "Läheisellä mt-ongelma",
+            "supportSources": [
+              {
+                "sourceName": "FinFami – mielenterveysomaiset Keski-Suomi",
+                "link": "https://www.finfamiks.fi/"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              }
+            ]
+          },
+          {
+            "name": "MT-opiskelijan kohtaaminen",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutorille tarjottava konsultaatio ja työnohjaus opintopsykologin toimesta"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Mielen polut -sivusto"
+              }
+            ]
+          },
+          {
+            "name": "Kuntoutuneet & kuntoutuvat",
+            "supportSources": [
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "HOPSin teko opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Suvimäen Klubitalo"
+              },
+              {
+                "sourceName": "Kulttuuripaja Trombi"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Mielen polut www-portaali"
+              },
+              {
+                "sourceName": "KELA kuntoutusselvitys -kuntoutustuki"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "pageName": "Opiskeluvaikeudet",
+        "pageContent": [
+          {
+            "name": "Väärä ala",
+            "supportSources": [
+              {
+                "sourceName": "www.ammattinetti.fi",
+                "link": "www.ammattinetti.fi"
+              },
+              {
+                "sourceName": "Studentum.fi",
+                "link": "studentum.fi"
+              },
+              {
+                "sourceName": "AVO-ammatinvalintaohjelma"
+              },
+              {
+                "sourceName": "Opintopolku.fi",
+                "link": "opintopolku.fi"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuorisopalvelut/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "TE-palvelut ammatinvalinnan psykologi",
+                "link": "www.te-palvelut.fi"
+              },
+              {
+                "sourceName": "Ohjaamo"
+              },
+              {
+                "sourceName": "Alumnit"
+              }
+            ]
+          },
+          {
+            "name": "Kieliopintojen vaikeudet",
+            "supportSources": [
+              {
+                "sourceName": "HOPSin teko opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja -> Yksilöllisen tuen anominen"
+              },
+              {
+                "sourceName": "Kielten tukiopinnot"
+              }
+            ]
+          },
+          {
+            "name": "Ajanhallinta",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              }
+            ]
+          },
+          {
+            "name": "Opiskelija jättäytyy opinnoista pois",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor – yhteydenotto"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuorisopalvelut/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              }
+            ]
+          },
+          {
+            "name": "Kiusaaminen, syrjintä, epäasiallinen kohtelu",
+            "supportSources": [
+              {
+                "sourceName": "JAMKOn edunvalvonta"
+              },
+              {
+                "sourceName": "Häirintäyhdyshenkilö"
+              },
+              {
+                "sourceName": "JAMKin sovittelijat"
+              },
+              {
+                "sourceName": "Oppilaitospappi"
+              }
+            ]
+          },
+          {
+            "name": "Opintojen 'jumi' & rästissä olevat suoritukset" ,
+            "supportSources": [
+              {
+                "sourceName": "HOPSin teko opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Opinnot rullamaan -ryhmät tai vastaavat"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja"
+              },
+              {
+                "sourceName": "JAMKOn mentorit"
+              },
+              {
+                "sourceName": "Suvimäen Klubitalon opintovalmennus"
+              },
+              {
+                "sourceName": "Paremmin yhdessä ry - opintovalmennus"
+              }
+            ]
+          },
+          {
+            "name": "Lukivaikeudet",
+            "supportSources": [
+              {
+                "sourceName": "Kielikeskuksen tukiopinnot"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja -> yksilöllisen tuen anomus"
+              },
+              {
+                "sourceName": "JAMKin lukitestaus 2 krt/v, tammi- ja syyskuu"
+              }
+            ]
+          },
+          {
+            "name": "Opintojen keskeyttämistä suunnittelevat",
+            "supportSources": [
+              {
+                "sourceName": "HOPSin teko opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja"
+              },
+              {
+                "sourceName": "Ohjaamo"
+              },
+              {
+                "sourceName": "TE-palvelut ammatinvalinnan psykologi",
+                "link": "www.te-palvelut.fi"
+              },
+              {
+                "sourceName": "Poissaolevaksi ilmoittautuminen - aikalisä"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuorisopalvelut/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "Ink-tiimi"
+              },
+              {
+                "sourceName": "Työpajatoiminta"
+              },
+              {
+                "sourceName": "Ammattinetti"
+              },
+              {
+                "sourceName": "Opintopolku"
+              }
+            ]
+          },
+          {
+            "name": "Matemaattinen hahmottaminen",
+            "supportSources": [
+              {
+                "sourceName": "HOPSin teko opettajatutorin kanssa"
+              },
+              {
+                "sourceName": "Pienryhmäohjaus – tukiopetus – matematiikan opettaja"
+              },
+              {
+                "sourceName": "Tuen tarpeen tarkempi määrittely – opiskelijaterveydenhuollon kautta/lähetteellä"
+              }
+            ]
+          },
+          {
+            "name": "Esiintymispelko & jännittäminen",
+            "supportSources": [
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "pageName": "Esteettömyys opinnoissa",
+        "subtitle": "Yksilöllisen tuen anomus -> opinto-ohjaaja ja esteettömyysyhdyshenkilö",
+        "pageContent": [
+          {
+            "name": "Näkövamma",
+            "supportSources": [
+              {
+                "sourceName": "Celia"
+              },
+              {
+                "sourceName": "KELA - kuntoutustuki"
+              }
+            ]
+          },
+          {
+            "name": "Syömishäiriö",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Syömishäiriöliitto SYLI ry"
+              }
+            ]
+          },
+          {
+            "name": "Lukivaikeus",
+            "supportSources": [
+              {
+                "sourceName": "Erilaisten oppijoiden liitto"
+              },
+              {
+                "sourceName": "Celia"
+              }
+            ]
+          },
+          {
+            "name": "Pitkäaikaissairaudet",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Opetutor – kevennetty hops"
+              },
+              {
+                "sourceName": "KELA - kuntoutustuki"
+              },
+              {
+                "sourceName": "Tukinet"
+              }
+            ]
+          },
+          {
+            "name": "Liikuntavamma",
+            "supportSources": [
+              {
+                "sourceName": "KELA - kuntoutustuki"
+              }
+            ]
+          },
+          {
+            "name": "Kuulovamma",
+            "supportSources": [
+              {
+                "sourceName": "KELA - kuntoutustuki"
+              }
+            ]
+          },
+          {
+            "name": "Allergiat, sisäilmaongelmat tms.",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Koulutuspäällikkö (sisäilmailmoitus)"
+              }
+            ]
+          },
+          {
+            "name": "Tarkkaavaisuushäiriöt (ADHD, ADD), Asperger",
+            "supportSources": [
+              {
+                "sourceName": "Opiskeluterveydenhuolto"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              },
+              {
+                "sourceName": "KELA - kuntoutustuki"
+              }
+            ]
+          }
+
+        ]
+      }
+    ]
+  }
+}
