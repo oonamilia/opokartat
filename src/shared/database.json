@@ -1,0 +1,688 @@
+{
+  "allMapContents":
+  {
+    "mapPages": [
+      {
+        "pageName": "Opiskeluvaikeudet",
+        "subtitle": "Onko sinulla vaikeuksia opiskeluun ja / tai oppimiseen liittyen? Löydät täältä palveluja, joita voit hyödyntää näissä tilanteissa.",
+        "pageContent": [
+          {
+            "name": "Opinnot jumissa / rästejä kertynyt",
+            "descriptionTitle": "Aina opinnot eivät suju suunnitelmien mukaan. Jos sinulle on kertynyt rästejä tai opintojen eteneminen takkuaa muutoin, löydät täältä apuja tilanteeseesi.",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Lähiohjaajasi opintoihin liittyen. Ota yhteyttä ja selvitä yhdessä puuttuvat opintosi ja suunnittele aikataulutus.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/" 
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Mikäli opintosi ovat enemmän solmussa tai rästejä on kertynyt paljon, varaa aika opinto-ohjaajaltasi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "JAMKOn mentorit",
+                "description": "Voit jutella koulutetun vertaisopiskelijan kanssa monipuolisesti opintoihisi liittyvistä asioista.",
+                "link": "https://www.jamko.fi/mentorointi/"
+              },
+              {
+                "sourceName": "Opiskelua tukevat ryhmät ja opintojakso",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Suvimäen klubitalon opintovalmennus",
+                "description": "Tukea ja ohjausta opintoihin.",
+                "link": "http://www.suvimaenklubitalo.fi/wp/toiminta/tyon-ja-opiskelun-tukeminen/"
+              }
+            ]
+          },
+          {
+            "name": "Kieliopintoihin liittyvät vaikeudet",
+            "descriptionTitle": "Tuntuuko viestintä- ja kieliopintojen tekeminen hankalalta? Täältä löydät tahoja, joiden puoleen voit kääntyä:",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit keskustella kielten opiskeluun liittyvistä haasteista opettajatutorisi kanssa ja miettiä esimerkiksi kielten tukiopintoihin liittyviä valintoja."
+              },
+              {
+                "sourceName": "Kielitutor",
+                "description": "Kielikeskuksen kieltenopettaja, joka tukee ja ohjaa, mikäli kieli- ja viestintäopintojen valintaan tai suorittamiseen liittyy haasteita.",
+                "link": "https://intra.jamk.fi/opiskelijat/kielten%20opiskelu/Lists/kieltennopeat/DisplayNewsForm.aspx?ID=19"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Jos kielten opiskelu on sinulle vaikeaa, ota yhteyttä opinto-ohjaajaasi ja voit kartoittaa hänen kanssaan, millaista tukea sinun olisi mahdollista saada.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/saavutettavuus-ja-esteettomyys/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "link": "Oppimisvaikeuksiin liittyvissä asioissa voit olla yhteydessä opintopsykologiin. Vastaanotolla voidaan kartoittaa oppimisen haasteita ja suunnitella tukitoimia."
+              }
+            ]
+          },
+          {
+            "name": "Matemaattisten asioiden oppimiseen liittyvät ongelmat (Vesa)",
+            "descriptionTitle": "Matemaattiset vaikeudet eivät ole este opiskelullesi.",
+            "supportSources": [
+              {
+                "sourceName": "Aiheeseen liittyvän opintojakson opettaja",
+                "description": "Aiheeseen liittyvän opintojakson opettajan kanssa voit keskustella haasteistasi ja esimerkiksi lisäopiskelumateriaalien hyödyntämisestä."
+              },
+              {
+                "sourceName": "Tukiopinnot, matikkapajat, lääkelaskupajat..."
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opinto-ohjaajan kanssa voit keskustella, millaista yksilöllistä tukea ja apua sinun olisi mahdollista saada."
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Oppimisvaikeuksiin liittyvissä asioissa voit olla yhteydessä opintopsykologiin. Vastaanotolla voidaan kartoittaa oppimisen haasteita ja suunnitella tukitoimia."
+              },
+              {
+                "sourceName": "Erilaisten oppijoiden liitto",
+                "description": "Vertaistukea, tietoa ja neuvontaa oppimisvaikeuksiin liittyen.",
+                "link": "https://www.eoliitto.fi/"
+              }
+            ]
+          },
+          {
+            "name": "Lukivaikeus",
+            "descriptionTitle": "Lukivaikeutta voidaan kartoittaa ja siihen liittyviin haasteisiin on mahdollista saada yksilöllistä tukea.",
+            "supportSources": [
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Saat opolta tukea opintojen suunnitteluun ja yksilöllisen tuen anomiseen liittyen liittyen.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/saavutettavuus-ja-esteettomyys/"
+              },
+              {
+                "sourceName": "Luki-testaus",
+                "description": "Järjestetään kahdesti vuodessa (syyskuu ja tammikuu) ja saat siitä palautteen, jota voit hyödyntää opiskelussasi ja tukitoimien suunnittelussa."
+              },
+              {
+                "sourceName": "Opiskelua tukevat opintojaksot",
+                "description": "Esimerkiksi opiskelutekniikoihin, kirjoittamiseen ja kielenhuoltoon liittyen.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Erilaisten oppijoiden liitto",
+                "description": "Vertaistukea, tietoa ja neuvontaa oppimisvaikeuksiin liittyen.",
+                "link": "https://www.eoliitto.fi/"
+              }
+            ]
+          },
+          {
+            "name": "Keskittymisvaikeudet",
+            "supportSources": [
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jutella keskittymisvaikeuksistasi ja pohtia, mitkä asiat siihen vaikuttavat ja millaisilla arjen ratkaisuilla voisit parantaa keskittymiskykyäsi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Jos keskittymisongelma haittaa arkeasi tai opintojasi, voit olla yhteydessä opintopsykologiin ja keskustella hänen kanssaan keskittymisen vaikeudesta ja tukitoimista.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              }
+            ]
+          },
+          {
+            "name": "Esiintymispelko ja jännittäminen",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit keskustella esiintymispelosta ja jännittämisestä opettajatutorisi kanssa ja miettiä esimerkiksi tukiopintovaihtoehtoja.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jutella, missä tilanteissa ja missä määrin nämä asiat vaikeuttavat opiskeluasi. Tarvittaessa voidaan miettiä yksilöllisen tuen järjestelyjä.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Voit tulla keskustelemaan esiintymispelosta / jännittämisestä opintopsykologin kanssa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelua tukevat opintojaksot ja ryhmät",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              }
+            ]
+          },
+          {
+            "name": "Opintojen keskeyttäminen mielessä",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit keskustella opettajatutorisi kanssa opintovalinnoistasi ja urasuunnitelmasi päivittämisestä tai esimerkiksi poissaolon mahdollisuudesta, jos kaipaat aikalisää.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Auttaa sinua motivaation rakentamisessa ja pohtii kanssasi erilaisia tulevaisuuden vaihtoehtoja.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Opintopsykologin kanssa voit keskustella laajemmin elämäntilanteestasi ja sen vaikutuksista opiskelukykyysi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Ohjaamo",
+                "description": "Ohjausta ja tukea työllistymiseen ja oikean opiskelupaikan löytämiseen.",
+                "link": "https://ohjaamot.fi/web/ohjaamo-jyvaskyla"
+              },
+              {
+                "sourceName": "TE-palvelujen ammatinvalinta- ja uraohjaus",
+                "description": "Henkilökohtaista ohjausta koulutus- ja uravalintoihin.",
+                "link": "http://toimistot.te-palvelut.fi/keski-suomi/ammatinvalinta-ja-uraohjaus"
+              },
+              {
+                "sourceName": "www.ammattinetti.fi",
+                "description": "Tietoa ammateista ja aloista - ammattialojen ja ammattien kuvauksia, eri ammateissa toimivien ihmisten haastatteluja ja uratarinoita sekä työelämään liittyviä artikkeleita.",
+                "link": "http://ammattinetti.fi"
+              },
+              {
+                "sourceName": "www.studentum.fi",
+                "description": "Tietoa eri koulutusaloista.",
+                "link": "https://www.studentum.fi/"
+              },
+              {
+                "sourceName": "AVO –ammatinvalintaohjelma",
+                "description": "Itsearviointitehtäviä ammatin valintaan.",
+                "link": "https://asiointi.mol.fi/avo/responsive/front-page.xhtml"
+              },
+              {
+                "sourceName": "www.opintopolku.fi",
+                "description": "Täällä voit tutustua 2. asteen ja korkea-asteen koulutuksiin ja hakea niihin.",
+                "link": "https://opintopolku.fi"
+              },
+              {
+                "sourceName": "Etsivä nuorisotyö",
+                "description": "Henkilökohtaista tukea tilanteesi jäsentämiseen ja tulevaisuutesi suunnitteluun.",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuoriso/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "Ink-tiimi",
+                "description": "Tiimiharjoittelujaksoja 18-29-vuotiaille erilaisin teemoin ja työtehtävin.",
+                "link": "https://musicagainstdrugs.info/osallistu/hae-tyoharjoitteluun/"
+              },
+              {
+                "sourceName": "Nuorten taidetyöpaja",
+                "description": "Tarjoaa valmennus-, ohjaus- ja opetuspalveluja 15-29-vuotiaille jyväskyläläisille nuorille aikuisille.",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuoriso/toiminta/nuorten-taidetyopaja"
+              }
+            ]
+          },
+          {
+            "name": "Motivaatio-ongelmat",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit jutella motivaatioon liittyvistä ongelmista opettajatutorisi kanssa ja pohtia esimerkiksi mahdollisuutta suunnata opinto- ja urasuunnitelmaasi uudella tavalla.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opinto-ohjaajan kanssa voit pohtia motivaatio-ongelmien syitä ja tarvittaessa päivittää tulevaisuudensuunnitelmiasi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelua tukevat ryhmät ja opintojaksot",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Opintopsykologi"
+              }
+            ]
+          },
+          {
+            "name": "Ajanhallinnan ongelmat",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit keskustella opettajatutorisi kanssa ajankäyttöön liittyvistä asioista ja päivittää ura- ja opintosuunnitelmiasi aikaresurssisi huomioiden.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon  kanssa voit jutella opiskelun ja muun elämän yhdistämiseen liittyvistä haasteista, hahmotella elämäntilannettasi ja mahdollisia “aikavarkaita” ja suunnitella ajankäyttöä siten, että aikaa riittäisi myös opiskeluun.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Hänen kanssaan voit keskustella laajemmin elämäntilanteestasi ja sen vaikutuksista opiskelukykyysi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Keskustelu- ja kuuntelutukenasi elämän eri tilanteissa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Nyyti",
+                "description": "Tarjoaa verkkomateriaalia ajanhallinnan haasteisiin.",
+                "link": "https://www.nyyti.fi/opiskelijoille/opi-elamantaitoa/hallittua-ajankayttoa/"
+              }
+            ]
+          },
+          {
+            "name": "Jäänyt pois opinnoista",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa yhteyttä opettajatutoriisi ja miettiä hänen kanssaan opiskelun solmujasi, selvitellä opintojesi tilannetta ja tehdä suunnitelmaa opintojen jatkamiseksi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jäsennellä syitä, jotka ovat johtaneet opinnoista pois jäämiseen ja miettiä, miten pääsisit takaisin kiinni opintoihin. Opon kanssa voit myös pohtia, mitä muuta apua mahdollisesti tarvitsisit tilanteessasi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Keskustellaan opiskelukykyyn vaikuttavista tekijöistä, arvioidaan hoidon tarvetta ja tuetaan opintojen jatkumista.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Etsivä Nuorisotyö",
+                "description": "Auttaa, jos kotoa lähteminen ja asioiden hoitaminen tuntuu vaikealta.",
+                "link": "https://www.jyvaskyla.fi/kulttuuri-ja-vapaa-aika/nuoriso/neuvonta-ja-tuki/etsiva-nuorisotyo"
+              },
+              {
+                "sourceName": "Ohjaamo",
+                "description": "Kaikille alle 30-vuotiaille tarkoitettu paikka, jossa saa apua ja tukea monenlaisiin asioihin opiskelusta ja työllistymisestä asumiseen ja kaikkeen näiden väliltä.",
+                "link": "https://ohjaamot.fi/web/ohjaamo-jyvaskyla"
+              }
+            ]
+          }
+          ,
+          {
+            "name": "Kiusaaminen, syrjintä, epäasiallinen kohtelu –Vesa",
+            "descriptionTitle": "JAMKissa ei hyväksytä minkäänlaista epäasiallista kohtelua tai kiusaamista. Jokainen korkeakouluyhteisön jäsen on vastuussa omasta käyttäytymisestään, jonka tulee olla asiallista, toisia kunnioittavaa, eettisesti kestävää ja hyvien tapojen mukaista. Tavoitteena on, että JAMKissa vallitsee tasa-arvoinen, oikeudenmukainen, turvallinen, osal- listava ja innostava opiskeluilmapiiri. https://opinto-oppaat.jamk.fi/globalassets/opinto-opas-amk/opintojen-tueksi/ollaan-ihmisiksi---epaasiallisen-kohtelun-ja-kiusaamisen-ennaltaehkaisy-jamkissa.pdf",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor, vertaistutor, opettaja, mentor",
+                "description": "On tärkeää, että otat kiusaamisen, syrjinnän tai epäasiallisen kohtelun puheeksi jonkun itsellesi luontevan tahon kanssa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/",
+                "link2": "https://www.jamko.fi/mentorointi/"
+              },
+              {
+                "sourceName": "Sovittelija",
+                "description": "Voit ottaa yhteyttä JAMKin sovittelijaan (yhteystiedot?), tai esim opettajatutorisi voi tehdä sen puolestasi. Sovittelutoiminnan avulla tilannetta edistetään sinun ehdoillasi ja tavoitteena on tilanteen ratkeaminen eli kiusaamisen / epäasiallisen kohtelun loppuminen."
+              },
+              {
+                "sourceName": "JAMKOn häirintäyhdyshenkilö",
+                "description": "Opiskelijakunnan häirintäyhdyshenkilö on tukenasi silloin, jos koet tulleesi kiusatuksi tai häirityksi joko opiskelutoverisi tai henkilöstön toimesta.",
+                "link": "https://www.jamko.fi/edunvalvonta/opiskelijan-hyvinvointi/"
+              },
+              {
+                "sourceName": "Keski-Suomen sovittelutoimisto",
+                "description": "Sovittelu tarjoaa rikosten ja riitojen osapuolille mahdollisuuden kohdata toisensa ja käsitellä tapahtuman aiheuttamia haittoja. Sovittelu on vapaaehtoista, maksutonta, puolueetonta ja luottamuksellista.",
+                "link": "https://www.jyvaskyla.fi/sosiaalipalvelut/rikos-ja-riita-asioiden-sovittelu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pageName": "Mielen hyvinvoinnin haasteet",
+        "pageContent": [
+          {
+            "name": "Mieli maassa?",
+            "descriptionTitle": "Koetko muutoksia mielialassasi? Alakuloisuutta? Vaikeuksia saada arjen asioita hoidetuksi?",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa näitä asioita puheeksi opettajatutorisi kanssa esimerkiksi hops-keskustelun yhteydessä. Voitte esimerkiksi keventää tai muutoin päivittää opintosuunnitelmaasi voimavarojesi mukaiseksi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Voit jutella alakulosta tai arjen hallinnasta opon kanssa ja etsiä yhdessä ratkaisuja tilanteeseesi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Voit tulla keskustelemaan mielialaasi liittyvistä asioista opintopsykologin kanssa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Voit tulla keskustelemaan mielialaasi liittyvistä asioista oppilaitospapin kanssa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelijan hyvinvointi ja elämäntaidot -opintojakso",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto / terveysasema",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-jyvaskylassa/",
+                "link2": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-saarijarvella/"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile",
+                "description": "Apua erilaisiin kriisitilanteisiin 24/7",
+                "link": "https://kriisikeskusmobile.fi/"
+              },
+              {
+                "sourceName": "Opiskelijan kompassi",
+                "link": "https://www.jyu.fi/studentlife/hyvinvointi/Ok%20sivu"
+              },
+              {
+                "sourceName": "www.mielenterveystalo.fi"
+              },
+              {
+                "sourceName": "www.headsted.fi"
+              },
+              {
+                "sourceName": "www.oivamieli.fi"
+              },
+              {
+                "sourceName": "www.nyyti.fi"
+              }
+            ]
+          },
+          {
+            "name": "Ahdistaako?",
+            "descriptionTitle": "Käytkö kierroksilla? Jännitätkö sosiaalisia tilanteita? Onko sinulla hengenahdistusta, sydämen tykytystä tai muita jännittämisen oireita?",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa näitä asioita puheeksi opettajatutorisi kanssa. Tarvittaessa voitte keventää tai muutoin päivittää opintosuunnitelmaasi voimavarojasi vastaavaksi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jutella, missä tilanteissa ja missä määrin nämä asiat vaikeuttavat opiskeluasi. Tarvittaessa voidaan miettiä yksilöllisen tuen järjestelyjä.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Voit tulla keskustelemaan mielialaasi liittyvistä asioista opintopsykologin kanssa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Voit tulla keskustelemaan mielialaasi liittyvistä asioista oppilaitospapin kanssa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelijan hyvinvointi ja elämäntaidot -opintojakso",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto / terveysasema",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-jyvaskylassa/",
+                "link2": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-saarijarvella/"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile",
+                "description": "Apua erilaisiin kriisitilanteisiin 24/7",
+                "link": "https://kriisikeskusmobile.fi/"
+              },
+              {
+                "sourceName": "Opiskelijan kompassi",
+                "link": "https://www.jyu.fi/studentlife/hyvinvointi/Ok%20sivu"
+              },
+              {
+                "sourceName": "www.mielenterveystalo.fi"
+              },
+              {
+                "sourceName": "www.headsted.fi"
+              },
+              {
+                "sourceName": "www.oivamieli.fi"
+              },
+              {
+                "sourceName": "www.nyyti.fi"
+              }
+            ]
+          },
+          {
+            "name": "Päihteet ja pelaaminen",
+            "descriptionTitle": "Huolestuttaako oma tai läheisen päihteiden käyttö? Viekö pelaaminen liikaa aikaa?",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa näitä asioita luottamuksellisesti puheeksi opettajatutorisi kanssa. Hän kuuntelee sinua ja ohjaa sinua tarvittaessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Päihdeyhdyshenkilö",
+                "description": "Jokaisella JAMKin kampuksella on nimetty päihdeyhdyshenkilö. Mikäli oma tai opiskelukaverisi päihteidenkäyttö huolestuttaa, ole yhteydessä päihdeyhdyshenkilöön.",
+                "link": "https://intra.jamk.fi/opiskelijat/ohjaus-ja-tuki/Sivut/default.aspx"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Voit tulla keskustelemaan päihteidenkäytöstäsi tai pelaamisesta luottamuksellisesti opintopsykologin kanssa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Voit tulla keskustelemaan päihteidenkäytöstäsi tai pelaamisesta luottamuksellisesti oppilaitospapin kanssa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto / terveysasema",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-jyvaskylassa/",
+                "link2": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-saarijarvella/"
+              },
+              {
+                "sourceName": "Sovatek -päihdepalvelusäätiö",
+                "description": "Apua huume-, alkoholi- ja peliongelmiin.",
+                "link": "http://www.sovatek.fi/paihde-ja-riippuvuus.html"
+              },
+              {
+                "sourceName": "AA-toiminta",
+                "description": "Tietoa ja tukiryhmiä alkoholiongelmaan.",
+                "link": "https://www.aa.fi/"
+              },
+              {
+                "sourceName": "https://paihdelinkki.fi/fi/mista-apua"
+              },
+              {
+                "sourceName": "https://peluuri.fi/fi"
+              }
+            ]
+          },
+          {
+            "name": "Stressi / uupumus",
+            "descriptionTitle": "Tunnetko itsesi kuormittuneeksi? Kamppailetko aikapaineiden kanssa, etkä ehdi palautua? Väsyttääkö? Onko sinulla univaikeuksia?",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa näitä asioita puheeksi opettajatutorisi kanssa. Tarvittaessa voitte keventää tai muutoin päivittää opintosuunnitelmaasi voimavarojasi vastaavaksi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jutella stressin aiheista ja oireista ja miettiä sinulle sopivia stressinhallintakeinoja. Opon kanssa voit myös tarvittaessa keventää tai muutoin päivittää opintosuunnitelmaasi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Opintopsykologin kanssa voit keskustella stressistä, suunnitella opintojasi. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Oppilaitospappi on tukenasi kuormittavissa elämäntilanteissa. Yhdessä mietitään, kuinka päästä tilanteessa eteenpäin.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelijan hyvinvointi ja elämäntaidot -opintojakso",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Opiskeluterveydenhuolto / terveysasema",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-jyvaskylassa/",
+                "link2": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opiskelijaelamaa/opiskeluterveydenhuolto/opiskeluterveydenhuolto-saarijarvella/"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile",
+                "description": "Apua erilaisiin kriisitilanteisiin 24/7",
+                "link": "https://kriisikeskusmobile.fi/"
+              },
+              {
+                "sourceName": "Opiskelijan kompassi",
+                "link": "https://www.jyu.fi/studentlife/hyvinvointi/Ok%20sivu"
+              },
+              {
+                "sourceName": "www.mielenterveystalo.fi"
+              },
+              {
+                "sourceName": "www.headsted.fi"
+              },
+              {
+                "sourceName": "www.oivamieli.fi"
+              },
+              {
+                "sourceName": "www.nyyti.fi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pageName": "Haastavat elämäntilanteet",
+        "pageContent": [
+          {
+            "name": "Parisuhdeasiat",
+            "descriptionTitle": "Onko sinulla vaikeuksia parisuhteessasi? Onko parisuhteesi päättynyt? Voit hakea keskusteluapua seuraavilta tahoilta:",
+            "supportSources": [
+              {
+                "sourceName": "Opintopsykologi",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Perheneuvola",
+                "description": "Tukea lapsiperheille erilaisissa haastavissa tilanteissa.",
+                "link": "https://www.jyvaskyla.fi/sosiaalipalvelut/perheet/perheneuvola"
+              },
+              {
+                "sourceName": "Perheasiain neuvottelukeskus",
+                "description": "Apua ja tukea ihmissuhteisiin.",
+                "link": "https://www.jyvaskylanseurakunta.fi/perheasiain-neuvottelukeskus"
+              },
+              {
+                "sourceName": "Kriisikeskus-mobile",
+                "description": "Apua erilaisiin kriisitilanteisiin 24/7.",
+                "link": "https://kriisikeskusmobile.fi/"
+              }
+            ]
+          },
+          {
+            "name": "Yksinäisyys",
+            "descriptionTitle": "Koetko itsesi yksinäiseksi? Onko sinulla vaikeuksia tutustua uusiin ihmisiin tai pitää yllä ihmissuhteita? Seuraavilta tahoilta voit hakea apua tilanteeseesi:",
+            "supportSources": [
+              {
+                "sourceName": "Vertaistutorit",
+                "link": "https://www.jamko.fi/tutorointi/vertaistutorointi/"
+              },
+              {
+                "sourceName": "Mentorit",
+                "link": "https://www.jamko.fi/mentorointi/"
+              },
+              {
+                "sourceName": "JAMKOn tapahtumat",
+                "link": "https://www.jamko.fi/palvelut/"
+              },
+              {
+                "sourceName": "Korkeakoululiikunta",
+                "link": "https://www.korkeakoululiikunta.fi/fi?set_language=fi"
+              },
+              {
+                "sourceName": "Opettajatutor",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/ohjauksen-toimijat/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opiskelijan hyvinvointi ja elämäntaidot -opintojakso",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/"
+              },
+              {
+                "sourceName": "Nyyti",
+                "link": "https://www.nyyti.fi/"
+              }
+            ]
+          },
+          {
+            "name": "Oma / läheisen sairaus",
+            "descriptionTitle": "Sairastamisesta huolimatta opintosi voivat edetä. Keskustele tilanteestasi koululla ja selvittele, miten opintojesi suhteen kannattaa toimia. Voit ottaa yhteyttä seuraaviin tahoihin:",
+            "supportSources": [
+              {
+                "sourceName": "Opettajatutor",
+                "description": "Voit ottaa näitä asioita puheeksi opettajatutorisi kanssa. Tarvittaessa voitte keventää tai muutoin päivittää opintosuunnitelmaasi voimavarojasi vastaavaksi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/ohjauksen-toimijat/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Opon kanssa voit jutella, millä tavoin oma tai läheisesi sairaus vaikeuttaa opiskeluasi. Voidaan keventää ja / tai järjestellä opintojasi tilanteesi vaatimalla tavalla. Tarvittaessa voidaan miettiä yksilöllisen tuen järjestelyjä.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Voit keskustella tilanteestasi ja suunnitella opintojasi.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "On tukenasi kuormittavissa elämäntilanteissa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              }
+            ]
+          },
+          {
+            "name": "Kriisi / suru, läheisen kuolema - kriisin kohdatessa ei pidä jäädä yksin. ",
+            "supportSources": [
+              {
+                "sourceName": "Oppilaitospappi",
+                "description": "Keskusteluapua kriisissä ja surussa.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opinto-ohjaaja",
+                "description": "Kuunteluapua ja tukea opintojen järjestämiseen.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Opintopsykologi",
+                "description": "Keskusteluapua ja tukea opintojen järjestämiseen.",
+                "link": "https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opintojen-ohjaus/"
+              },
+              {
+                "sourceName": "Kriisikeskus Mobile",
+                "description": "Apua erilaisiin kriisitilanteisiin 24/7",
+                "link": "https://kriisikeskusmobile.fi/"
+              },
+              {
+                "sourceName": "Kriisipuhelin",
+                "description": "Keskusteluapua numerossa 09-25250111",
+                "link": "https://mieli.fi/fi/tukea-ja-apua/kriisipuhelin-keskusteluapua-numerossa-09-2525-0111"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
