@@ -1,0 +1,22 @@
+<!-- Map -->
+
+<!-- <a routerLink="/mapstart"> tässä on linkki </a> -->
+<!-- div>
+	<h1 style="margin: 0 auto; text-align: center; margin-bottom: 20px;">Opettajatutoreiden kartta</h1>
+</div -->
+
+<div id='linkContainer' *ngIf="linkNameList[0]?.allMapContents">
+	<!-- v HAKU JOS SE TULEE v -->
+	<!-- input id='search' placeholder='Hae' -->
+	<ul class='row'>
+		<!-- vv Näistä tulee ngrepeat vv -->
+		<li class='col-sm' *ngFor='let link of linkNameList[0]?.allMapContents.mapPages; index as i'>
+			<button type="button"  class='linkList' (click)='setPageContent(link.pageName, i)'>
+				{{ link.pageName }}
+			</button>
+		</li>
+	</ul>
+</div>
+
+<app-map-content></app-map-content>
+<!-- [queryParams]="{pageName: link.pageName, index: i}" -->

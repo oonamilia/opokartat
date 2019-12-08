@@ -1,0 +1,47 @@
+<div id='linkContainer2'>
+
+
+<!-- app-navigation></app-navigation -->
+
+<!-- div class="backArrowContainer">
+  <a routerLink='/mapstart' class='backArrow'><i class="material-icons">reply</i> Takaisin </a>
+</div -->
+  <div class='row'>
+    <div class='col'>
+      <div class='pageTitle'>
+        <h2> {{ pageName }} </h2>
+        <p *ngIf="pageContent[0]?.allMapContents" style='color: gray;'> {{ pageContent[0].allMapContents.mapPages[pageIndex]?.subtitle }} </p>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='col-5'>
+      <ul *ngIf="pageContent[0]?.allMapContents">
+        <li *ngFor='let link of pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent; index as i'
+            [style.background-color]="link.name == subName ? '#b5c5c7' : '#d7dfe0'">
+          <button class='linkList' (click)='setSubContent(link.name, i)'>{{ link.name }}</button>
+        </li>
+      </ul>
+    </div>
+      <!--div class='pageTitle'>
+        <h4> {{ subName }} </h4>
+      </div-->
+    <div class='col-7'>
+
+      <ul class='widerList' *ngIf="pageContent[0]?.allMapContents">
+        <li class='widerListItem' *ngFor='let source of pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent[subIndex]?.supportSources; index as i'>
+          <div class="indent">
+            <p class="widerListH">{{ source.sourceName }}</p>
+            <p>{{ source.description }}</p>
+            <a href='//{{ source.link }}' target="_blank">{{ source.link }}</a>
+
+            <p>{{ source.phone }}</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+</div>
