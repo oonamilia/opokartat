@@ -6,18 +6,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 
-/*
-/* Page components
-import { LoginComponent } from './components/login/login.component';
-import { FullPageComponent } from './components/full-page/full-page.component';
-
-/* Components under nav
-
-/*Screens
-import { ScreensComponent } from './components/map_start/map_start.component'; */
-
-/*import { ScreensEditComponent } from './components/screens_edit/screens-edit.component';
-
 /* Components */
 import { MapStartComponent } from './components/map-start/map-start.component';
 import { MapContentComponent } from './components/map-content/map-content.component';
@@ -25,29 +13,12 @@ import { MapContentComponent } from './components/map-content/map-content.compon
 /* Services */
 import { PagesService } from './services/pages.service';
 
-/* Shared assets */
-/* Pipes */
-import { SafePipe } from '../shared/sanitization.pipe'; // import our pipe here
-
 /* Angular Material */
 import { MatIconModule } from '@angular/material/icon';
 
-/* Database */
-//import { Database } from '../shared/database.json';
-
 const appRoutes: Routes = [
   { path: 'mapstart', component: MapStartComponent },
-  { path: 'mapcontent', component: MapContentComponent }, /*,
-  { path: 'home', component: FullPageComponent, children: [
-      {path: '', redirectTo: 'screens', pathMatch: 'full'},
-      {path: 'screens', component: ScreensComponent},
-      {path: 'edit', component: ScreensEditComponent}
-    ] },
-/*  {
-    path: 'heroes',
-    component: HeroListComponent,
-    data: { title: 'Heroes List' }
-  }, */
+  { path: 'mapcontent', component: MapContentComponent }, 
   { path: '',
     redirectTo: 'mapstart',
     pathMatch: 'full'
