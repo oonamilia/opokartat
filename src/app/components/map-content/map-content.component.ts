@@ -40,7 +40,6 @@ export class MapContentComponent implements OnInit {
   setSubContent(contentName, index) {
     this.pagesService.setSelectedSubContent(contentName, index);
     this.getSelectedSubContentFromService();
-    console.log(this.subIndex);
   }
   getSelectedSubContentFromService() {
       this.subName = this.pagesService.getSelectedSubContent().name;

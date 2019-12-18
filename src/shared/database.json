@@ -361,7 +361,7 @@
               },
               {
                 "sourceName": "Sovittelija",
-                "description": "Voit ottaa yhteyttä JAMKin sovittelijaan (yhteystiedot?), tai esim opettajatutorisi voi tehdä sen puolestasi. Sovittelutoiminnan avulla tilannetta edistetään sinun ehdoillasi ja tavoitteena on tilanteen ratkeaminen eli kiusaamisen / epäasiallisen kohtelun loppuminen.",
+                "description": "Voit ottaa yhteyttä JAMKin sovittelijaan, tai esim opettajatutorisi voi tehdä sen puolestasi. Sovittelutoiminnan avulla tilannetta edistetään sinun ehdoillasi ja tavoitteena on tilanteen ratkeaminen eli kiusaamisen / epäasiallisen kohtelun loppuminen.",
                 "icon": ["jamk"]
               },
               {
