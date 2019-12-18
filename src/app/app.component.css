@@ -1,14 +1,4 @@
 #container {
 	font-family: Calibri, Arial, sans-serif;
-	padding-top: 30px;
-}
-#header {
-	background-color: #CFE276;
-	height: 60px;
-	margin: 0 0 20px 0;
-}
-h1 {
-	color: #FFF;
-	font-size: 15px;
-	padding: 20px 0 0 20px;
+	padding-top: 5px;
 }

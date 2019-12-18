@@ -25,9 +25,6 @@ import { MapContentComponent } from './components/map-content/map-content.compon
 /* Services */
 import { PagesService } from './services/pages.service';
 
-/* Shared components */
-import { NavigationComponent } from './shared_components/navigation/navigation.component';
-
 /* Shared assets */
 /* Pipes */
 import { SafePipe } from '../shared/sanitization.pipe'; // import our pipe here
@@ -60,7 +57,6 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent,
-    NavigationComponent,
     MapStartComponent,
     MapContentComponent
   ],
