@@ -382,6 +382,7 @@
       },
       {
         "pageName": "Mielen hyvinvoinnin haasteet",
+        "subtitle": "Tuntuuko, että voimavarasi ovat vähissä? Tai ovatko päihteidenkäyttö tai pelaaminen liian suuressa roolissa elämässäsi?",
         "pageContent": [
           {
             "name": "Mieli maassa?",
@@ -434,18 +435,22 @@
               },
               {
                 "sourceName": "www.mielenterveystalo.fi",
+                "link": ["https://www.mielenterveystalo.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.headsted.fi",
+                "link": ["https://headsted.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.oivamieli.fi",
+                "link": ["www.oivamieli.fi"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.nyyti.fi",
+                "link": ["www.nyyti.fi"],
                 "icon": ["web"]
               }
             ]
@@ -501,18 +506,22 @@
               },
               {
                 "sourceName": "www.mielenterveystalo.fi",
+                "link": ["https://www.mielenterveystalo.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.headsted.fi",
+                "link": ["https://headsted.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.oivamieli.fi",
+                "link": ["www.oivamieli.fi"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.nyyti.fi",
+                "link": ["www.nyyti.fi"],
                 "icon": ["web"]
               }
             ]
@@ -564,10 +573,12 @@
               },
               {
                 "sourceName": "https://paihdelinkki.fi/fi/mista-apua",
+                "link": ["https://paihdelinkki.fi/fi/mista-apua"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "https://peluuri.fi/fi",
+                "link": ["https://peluuri.fi/fi"],
                 "icon": ["web"]
               }
             ]
@@ -623,18 +634,22 @@
               },
               {
                 "sourceName": "www.mielenterveystalo.fi",
+                "link": ["https://www.mielenterveystalo.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.headsted.fi",
+                "link": ["https://headsted.fi/"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.oivamieli.fi",
+                "link": ["www.oivamieli.fi"],
                 "icon": ["web"]
               },
               {
                 "sourceName": "www.nyyti.fi",
+                "link": ["www.nyyti.fi"],
                 "icon": ["web"]
               }
             ]
@@ -643,6 +658,7 @@
       },
       {
         "pageName": "Haastavat elämäntilanteet",
+        "subtitle": "Onko elämäntilanteesi haastava tai kuormittava? Löydät täältä tahoja, joiden puoleen voit kääntyä.",
         "pageContent": [
           {
             "name": "Parisuhdeasiat",
@@ -803,10 +819,11 @@
       },
       {
         "pageName": "For international students",
+        "subtitle": "Here you can find help and contact information for different kinds of challenges.",
         "pageContent": [
           {
             "name": "For international students",
-            "descriptionTitle": "",
+            "descriptionTitle": "Here you can find help and contact information for different kinds of challenges.",
             "supportSources": [
               {
                 "sourceName": "Study guidance",
@@ -834,7 +851,7 @@
               },
               {
                 "sourceName": "Finnish language studies",
-                "description": "JAMK language center https://www.jamk.fi/en/Services/language-centre/ · Gradia Aikuislukio https://www.gradia.fi/jyvaskylan-aikuislukio-aineopinnot/l16684 · Jyväskylä University https://www.avoin.jyu.fi/fi/opintotarjonta/viestinta-ja-kieliopinnot/suomi-toisena-kielena · Jyväskylän kansalaisopisto https://opistopalvelut.fi/jyvaskyla/courses.php?l=en",
+                "description": "JAMK language center, Gradia Aikuislukio, Jyväskylä University, Jyväskylän kansalaisopisto",
                 "link": ["https://www.jamk.fi/en/Services/language-centre/", "https://www.gradia.fi/jyvaskylan-aikuislukio-aineopinnot/l16684", "https://www.avoin.jyu.fi/fi/opintotarjonta/viestinta-ja-kieliopinnot/suomi-toisena-kielena", "https://opistopalvelut.fi/jyvaskyla/courses.php?l=en"],
                 "icon": ["jamk", "jkl"]
               },
