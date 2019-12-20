@@ -1,6 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { PagesService } from '../../services/pages.service';
-import { CommonModule } from '@angular/common';
 
 import { MapContentComponent } from '../map-content/map-content.component';
 
@@ -24,10 +23,9 @@ export class MapStartComponent implements OnInit {
 
 	}
 
-
 	ngOnInit() {
 
-    }
+  }
 
   hideMapStart() {
     this.hiddenStart = true;

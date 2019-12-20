@@ -4,8 +4,8 @@
 	margin: 30px 0 5px 0;
 }
 .row {
-		padding: 0;
-		margin: 0;
+	padding: 0;
+	margin: 0;
 }
 .rowContainer {
 	margin: 0 auto;
@@ -17,8 +17,6 @@
 .pageTitle {
 	width: 100%;
 	overflow: visible;
-	/* height: 600px; */
-	/* border: 1px solid black; */
 	margin: 0 40px 0 20px;
 	padding: 0 40px 0 20px;
 	text-align: left;
@@ -52,8 +50,6 @@ ul {
 	text-align: left;
 	width: 100%;
 	overflow: visible;
-	/* height: 600px; */
-	/* border: 1px solid black; */
 	padding: 0 0 0 40px;
 	display: block;
 }
@@ -64,7 +60,6 @@ ul {
 	min-width: 50%;
 	overflow: auto;
 	padding: 4px 0 4px 10px;
-	/*border-radius: 5px 5px 5px 5px;*/
 }
 .indent {
 	margin: 0 5px 0 15px;
@@ -72,16 +67,13 @@ ul {
 .widerList {
 	width: 100%;
 	padding: 0 0 0 0;
-	/*background-color: RGBA(116,118,121,0.1);*/ /*JAMK harmaa 10%*/
 }
 .widerListItem {
 	width: 80%;
 	padding-top: 10px;
 }
 .widerListItem a {
-	color: #005b8c;
-	/*transition: 0.5s; */
-	/*font-size: 20px;*/
+	color: #005b8c; /* JAMK sininen */
 }
 .widerListH {
 	color: #393d3f;
@@ -89,7 +81,7 @@ ul {
 	font-size: 16px;
 }
 .linkList {
-	color: #005b8c;
+	color: #005b8c; /* JAMK sininen */
 	width: 100%;
 	font-size: 16px;
 	letter-spacing: 0.2px;
@@ -99,10 +91,8 @@ ul {
 	text-align: left;
 }
 .linkList:hover {
-	color: #d80073;
+	color: #d80073; /* JAMK pinkki */
 	text-decoration: underline;
-	/*transition: 0.5s; */
-	/*font-size: 20px;*/
 }
 .linkList:focus {
 	outline: none;
@@ -140,8 +130,6 @@ ul {
 	}
 	.pageTitle {
 		overflow: visible;
-		/* height: 600px; */
-		/* border: 1px solid black; */
 		margin: 0 40px 0 0;
 		padding: 0 40px 0 0;
 	}
@@ -188,7 +176,6 @@ ul {
 		padding-left: 7px;
 	}
 }
-
 @media (max-width: 330px) {
 	ul {
 		width: 100%;
@@ -202,8 +189,8 @@ ul {
 		margin-left: 0;
 	}
 	.linkList {
-			font-size: 15px;
-			padding: 0;
+		font-size: 15px;
+		padding: 0;
 	}
 	#linkContainer{
 		width: 100%;
@@ -213,7 +200,6 @@ ul {
 	}
 	.pageTitle {
 		width: 100%;
-
 		margin: 0 40px 0 0;
 		padding: 0 40px 0 0;
 	}

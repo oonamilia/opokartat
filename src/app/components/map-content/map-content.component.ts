@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Input } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { PagesService } from '../../services/pages.service';
-import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-map-content',
@@ -11,7 +9,6 @@ import { MatIconModule } from '@angular/material/icon';
 })
 export class MapContentComponent implements OnInit {
 
-  //@Input() pageContent: any[];
   pageData;
   pageContent = [];
   pageName: string;

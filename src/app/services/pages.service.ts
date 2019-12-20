@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { Observable } from 'rxjs/Observable';
 
 import 'rxjs/add/operator/map';
 
@@ -10,13 +9,12 @@ export class PagesService {
 
   pageContentName: any;
   subContentName: any;
-  private url = '../../shared/database.json';
+  private url = './shared/database.json';
 
   constructor(
     private http: HttpClient
   ) {
       this.http.get(this.url).subscribe(data => {
-        console.log(data);
       })
   }
 

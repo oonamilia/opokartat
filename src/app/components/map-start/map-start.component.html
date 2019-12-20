@@ -1,12 +1,7 @@
-<!-- Map Navigation -->
-
-<!-- div class="backArrowContainer">
-	<a routerLink='/mapstart' class='backArrow'> Etusivulle</a>
-  <div -->
 
 <div id='linkContainer' *ngIf="linkNameList[0]?.allMapContents">
 	<ul class='row'>
-		<!-- Näistä tulee ngrepeat -->
+		<!-- Navigoinnin linkit -->
 		<li class='col-sm' *ngFor='let link of linkNameList[0]?.allMapContents.mapPages; index as i'
 		[style.background-color]="link.pageName == selectedContentName || hovered == link ? '#FFFFFF' : '#005b8c'">
 			<button type="button"  class='linkList' (click)='setPageContent(link.pageName, i)'
@@ -15,8 +10,8 @@
 				{{ link.pageName }}
 			</button>
 		</li>
+
 	</ul>
 </div>
 
 <app-map-content></app-map-content>
-<!-- [queryParams]="{pageName: link.pageName, index: i}" -->

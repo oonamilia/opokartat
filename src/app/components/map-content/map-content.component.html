@@ -1,22 +1,18 @@
 <div id='linkContainer2'>
-
-<!-- div class="backArrowContainer">
-  <a routerLink='/mapstart' class='backArrow'><i class="material-icons">reply</i> Takaisin </a>
-</div -->
   <div class='row rowContainer'>
-    <div class='col-6' *ngIf="!pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent">
+    <!-- Etusivun tekstit ja kuva -->
+    <div class='col-6' *ngIf="!pageContent[0] || !pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent">
           <p class='frontPageText'>Tästä kartastosta löydät tietoa tahoista, joihin voit olla yhteyksissä, jos sinulla on haasteita opintoihisi ja/tai elämäntilanteeseesi liittyen. </p> 
           <p class='frontPageText'>Ohjauksen kartastoon on koottu JAMKin tarjoamia palveluja, Jyväskylän alueen palveluja sekä verkkopalveluja. Ota rohkeasti yhteyttä ja hae apua tilanteeseesi! </p>
-  
           <p class='frontPageText'>JAMKin opiskelua tukeviin opintojaksoihin ja ryhmiin pääset tutustumaan täällä: <a href='https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/'>https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/opintojen-tueksi/opiskelua-tukevat-opintojaksot-ja-ryhmat/</a></p>
     </div>
-    <div class='col-6 picContainer' *ngIf="!pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent">
+    <div class='col-6 picContainer' *ngIf="!pageContent[0] || !pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent">
         <img src='../assets/pidetaan_huolta_pupu_270x320.png' alt="Pidetään huolta pupu">
     </div>
 
     <div class='col-5'>
       <ul *ngIf="pageContent[0]?.allMapContents">
-        
+        <!-- Linkit kartan eri sivuille -->
         <li *ngFor='let link of pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent; index as i'
             [style.background-color]="link.name == subName ? '#eeeeee' : '#eeeeee'" class="styledList">
           <button class='linkList' (click)='setSubContent(link.name, i)'
@@ -30,19 +26,23 @@
       <ul class='widerList' *ngIf="pageContent[0]?.allMapContents">
         <p class="subTitleText"> {{ pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent[subIndex]?.descriptionTitle }}  </p>
         <p class="subTitleText explIcons">  <mat-icon svgIcon="jamkhome" class="explIcon"> </mat-icon> JAMKin palvelut 
-                                  <mat-icon svgIcon="jkl" class="explIcon"></mat-icon> Jyväskylän palvelut
-                                  <mat-icon svgIcon="online" class="explIcon"></mat-icon> Online-palvelut </p>
+                                            <mat-icon svgIcon="jkl" class="explIcon"></mat-icon> Jyväskylän palvelut
+                                            <mat-icon svgIcon="online" class="explIcon"></mat-icon> Online-palvelut </p>
+        <!-- Kartan sivujen sisältö -->                          
         <li class='styledList widerListItem' *ngFor='let source of pageContent[0].allMapContents.mapPages[pageIndex]?.pageContent[subIndex]?.supportSources; index as i'>
           <div class="indent">
             <mat-icon *ngIf="source.icon?.includes('jamk')" svgIcon="jamkhome" hover="buu" class="listIcons"></mat-icon>
             <mat-icon *ngIf="source.icon?.includes('jkl')" svgIcon="jkl" class="listIcons"></mat-icon>
             <mat-icon *ngIf="source.icon?.includes('web')" svgIcon="online" class="listIcons"></mat-icon>
-            <p class="widerListH">{{ source.sourceName }}</p> 
+            <!-- Nimi -->
+            <p class="widerListH">{{ source.sourceName }}</p>
+            <!-- Kuvaus --> 
             <p>{{ source.description }}</p>
+            <!-- Linkit -->
             <ul style="list-style-type: none;">
               <li *ngFor="let link of source.link"> <a href='{{ link }}' target="_blank" style="font-size: small;">{{ link }}</a><i class="material-icons" *ngIf="source.link" style="font-size: small;">open_in_new</i> </li>
             </ul>
-
+            <!-- Puhelinnumero -->
             <p>{{ source.phone }}</p>
 
           </div>
