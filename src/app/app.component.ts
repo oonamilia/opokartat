@@ -16,15 +16,15 @@ export class AppComponent {
     ) {
       this.matIconRegistry.addSvgIcon(
         "jamkhome",
-        this.domSanitizer.bypassSecurityTrustResourceUrl("../assets/icons/jamkhome.svg")
+        this.domSanitizer.bypassSecurityTrustResourceUrl("./assets/icons/jamkhome.svg")
       );
       this.matIconRegistry.addSvgIcon(
         "jkl",
-        this.domSanitizer.bypassSecurityTrustResourceUrl("../assets/icons/jkl.svg")
+        this.domSanitizer.bypassSecurityTrustResourceUrl("./assets/icons/jkl.svg")
       );
       this.matIconRegistry.addSvgIcon(
         "online",
-        this.domSanitizer.bypassSecurityTrustResourceUrl("../assets/icons/online.svg")
+        this.domSanitizer.bypassSecurityTrustResourceUrl("./assets/icons/online.svg")
       );
     }
   
